@@ -1,0 +1,32 @@
+@import "nullstyle.scss";
+
+body {
+	font-family: 'Open sans', sans-serif;
+}
+
+.container {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.header {
+	background: url('../img/header-bg.jpg') no-repeat center top;
+}
+
+.head__row {
+	padding-top: 20px;
+}
+
+}
+.logo p {
+	display: inline;
+	color: #fff;
+	text-transform: uppercase;
+	font-family: 'Roboto', sans-serif;
+	font-size: 32px;
+	line-height: 60px;
+	color: #F7F7F7;
+	margin-left: 15px;
+}
+
+
